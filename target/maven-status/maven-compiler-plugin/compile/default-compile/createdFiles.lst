@@ -1,0 +1,13 @@
+com/test_technique/modelsisbackend/ModelsisbackendApplication.class
+com/test_technique/modelsisbackend/services/ProductService.class
+com/test_technique/modelsisbackend/entities/Product.class
+com/test_technique/modelsisbackend/repositories/ProductRepository.class
+com/test_technique/modelsisbackend/exception/ProductExistantException.class
+com/test_technique/modelsisbackend/controllers/TypeProductController.class
+com/test_technique/modelsisbackend/exception/TypeProductExistantException.class
+com/test_technique/modelsisbackend/exception/GlobalTypeProductExceptionHandler.class
+com/test_technique/modelsisbackend/controllers/ProductController.class
+com/test_technique/modelsisbackend/services/TypeProductService.class
+com/test_technique/modelsisbackend/entities/TypeProduct.class
+com/test_technique/modelsisbackend/repositories/TypeProductRepository.class
+com/test_technique/modelsisbackend/exception/GlobalProductExceptionHandler.class

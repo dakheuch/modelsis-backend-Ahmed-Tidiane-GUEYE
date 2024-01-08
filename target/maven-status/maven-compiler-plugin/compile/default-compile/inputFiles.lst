@@ -1,0 +1,13 @@
+/Users/ahmedgueye/Documents/modelsis-backend-Ahmed-Tidiane-GUEYE/src/main/java/com/test_technique/modelsisbackend/entities/Product.java
+/Users/ahmedgueye/Documents/modelsis-backend-Ahmed-Tidiane-GUEYE/src/main/java/com/test_technique/modelsisbackend/exception/ProductExistantException.java
+/Users/ahmedgueye/Documents/modelsis-backend-Ahmed-Tidiane-GUEYE/src/main/java/com/test_technique/modelsisbackend/services/TypeProductService.java
+/Users/ahmedgueye/Documents/modelsis-backend-Ahmed-Tidiane-GUEYE/src/main/java/com/test_technique/modelsisbackend/controllers/ProductController.java
+/Users/ahmedgueye/Documents/modelsis-backend-Ahmed-Tidiane-GUEYE/src/main/java/com/test_technique/modelsisbackend/exception/TypeProductExistantException.java
+/Users/ahmedgueye/Documents/modelsis-backend-Ahmed-Tidiane-GUEYE/src/main/java/com/test_technique/modelsisbackend/entities/TypeProduct.java
+/Users/ahmedgueye/Documents/modelsis-backend-Ahmed-Tidiane-GUEYE/src/main/java/com/test_technique/modelsisbackend/services/ProductService.java
+/Users/ahmedgueye/Documents/modelsis-backend-Ahmed-Tidiane-GUEYE/src/main/java/com/test_technique/modelsisbackend/ModelsisbackendApplication.java
+/Users/ahmedgueye/Documents/modelsis-backend-Ahmed-Tidiane-GUEYE/src/main/java/com/test_technique/modelsisbackend/controllers/TypeProductController.java
+/Users/ahmedgueye/Documents/modelsis-backend-Ahmed-Tidiane-GUEYE/src/main/java/com/test_technique/modelsisbackend/exception/GlobalTypeProductExceptionHandler.java
+/Users/ahmedgueye/Documents/modelsis-backend-Ahmed-Tidiane-GUEYE/src/main/java/com/test_technique/modelsisbackend/repositories/TypeProductRepository.java
+/Users/ahmedgueye/Documents/modelsis-backend-Ahmed-Tidiane-GUEYE/src/main/java/com/test_technique/modelsisbackend/repositories/ProductRepository.java
+/Users/ahmedgueye/Documents/modelsis-backend-Ahmed-Tidiane-GUEYE/src/main/java/com/test_technique/modelsisbackend/exception/GlobalProductExceptionHandler.java
